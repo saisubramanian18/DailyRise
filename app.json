@@ -1,0 +1,10 @@
+
+{
+  "expo": {
+    "name": "DailyRise",
+    "slug": "dailyrise",
+    "platforms": ["android"],
+    "android": { "package": "com.saisubramanian.dailyrise" },
+    "plugins": ["expo-router"]
+  }
+}
