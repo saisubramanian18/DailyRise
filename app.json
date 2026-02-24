@@ -9,14 +9,6 @@
     "plugins": ["expo-router"],
     "version": "1.0.0",
     "sdkVersion": "50.0.0",
-    "extra": {
-      "router": {
-        "origin": false
-      },
-      "eas": {
-        "projectId": "REPLACE_THIS"
-      }
-    }
   }
 }
 "extra": {
