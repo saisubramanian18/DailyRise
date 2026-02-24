@@ -1,10 +1,21 @@
-
 {
   "expo": {
     "name": "DailyRise",
     "slug": "dailyrise",
     "platforms": ["android"],
-    "android": { "package": "com.saisubramanian.dailyrise" },
-    "plugins": ["expo-router"]
+    "android": {
+      "package": "com.saisubramanian.dailyrise"
+    },
+    "plugins": ["expo-router"],
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "REPLACE_THIS"
+      }
+    }
   }
 }
